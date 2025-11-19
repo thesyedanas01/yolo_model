@@ -1,0 +1,8 @@
+flask
+flask-cors
+pillow
+numpy
+torch        # pick correct wheel for your CUDA/CPU
+torchvision
+ultralytics  # optional if you use ultralytics loader
+gunicorn     # production WSGI server
